@@ -1,11 +1,8 @@
 # 1. Two Sum
 
-|Category|Difficulty|Likes|Dislikes|
-|:-:|:-:|:-:|:-:|
-|algorithms|Easy (47.01%)|21342|735|
-
-**Tags**
-*array* *hash-table*
+|Category|Difficulty|Tag|
+|:-:|:-:|:-:|
+|algorithms|Easy|array, hash-table|
 
 Given an array of integers `nums` and an `integer` target, return indices of the two numbers such that they add up to `target`.
 

@@ -1,11 +1,8 @@
 # 3. Longest Substring Without Repeating Characters
 
-|Category|Difficulty|Likes|Dislikes|
-|:-:|:-:|:-:|:-:|
-|algorithms|Medium|(31.74%)|14706|748|
-
-**Tags**
-*hash-table* *two-pointers* *string* *sliding-window*
+|Category|Difficulty|Tag|
+|:-:|:-:|:-:|
+|algorithms|Medium|hash-table, two-pointers, string, sliding-window|
 
 Given a string `s`, find the length of the longest substring without repeating characters.
 
