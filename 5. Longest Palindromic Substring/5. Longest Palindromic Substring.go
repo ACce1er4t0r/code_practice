@@ -51,5 +51,5 @@ func longestPalindrome2(s string) string {
 // third
 //TODO manachar... ummm, next time, next time...
 func longestPalindrome3(s string) string {
-
+	return s
 }
