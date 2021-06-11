@@ -47,3 +47,9 @@ func longestPalindrome2(s string) string {
 	}
 	return s[l : r+1]
 }
+
+// third
+//TODO manachar... ummm, next time, next time...
+func longestPalindrome3(s string) string {
+
+}
