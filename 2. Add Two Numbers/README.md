@@ -1,6 +1,6 @@
 # 2. Add Two Numbers
 
-|Category|Difficulty|Tag|
+|Category|Difficulty|Tags|
 |:-:|:-:|:-:|
 |algorithms|Medium|linked-list, math|
 

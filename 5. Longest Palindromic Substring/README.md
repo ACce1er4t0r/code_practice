@@ -1,6 +1,6 @@
 # 5. Longest Palindromic Substring
 
-|Category|Difficulty|Tag|
+|Category|Difficulty|Tags|
 |:-:|:-:|:-:|
 |algorithms|Medium|string, dynamic-programming|
 

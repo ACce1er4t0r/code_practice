@@ -1,6 +1,6 @@
 # 6. ZigZag Conversion
 
-|Category|Difficulty|Tag|
+|Category|Difficulty|Tags|
 |:-:|:-:|:-:|
 |algorithms|Medium|string|
 

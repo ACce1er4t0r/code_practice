@@ -1,6 +1,6 @@
 # 7. Reverse Integer
 
-|Category|Difficulty|Tag|
+|Category|Difficulty|Tags|
 |:-:|:-:|:-:|
 |algorithms|Easy|math|
 

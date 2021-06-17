@@ -1,6 +1,6 @@
 # 3. Longest Substring Without Repeating Characters
 
-|Category|Difficulty|Tag|
+|Category|Difficulty|Tags|
 |:-:|:-:|:-:|
 |algorithms|Medium|hash-table, two-pointers, string, sliding-window|
 

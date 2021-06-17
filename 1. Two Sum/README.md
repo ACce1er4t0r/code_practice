@@ -1,6 +1,6 @@
 # 1. Two Sum
 
-|Category|Difficulty|Tag|
+|Category|Difficulty|Tags|
 |:-:|:-:|:-:|
 |algorithms|Easy|array, hash-table|
 

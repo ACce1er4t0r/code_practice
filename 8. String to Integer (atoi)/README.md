@@ -1,6 +1,6 @@
 # 8. String to Integer (atoi)
 
-|Category|Difficulty|Tag|
+|Category|Difficulty|Tags|
 |:-:|:-:|:-:|
 |algorithms|Medium|math, string|
 

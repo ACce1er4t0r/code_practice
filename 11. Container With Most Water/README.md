@@ -1,6 +1,6 @@
 # 11. Container With Most Water
 
-|Category|Difficulty|Tag|
+|Category|Difficulty|Tags|
 |:-:|:-:|:-:|
 |algorithms|Medium|array, two-pointers|
 

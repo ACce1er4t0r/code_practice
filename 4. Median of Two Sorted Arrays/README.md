@@ -1,6 +1,6 @@
 # 4. Median of Two Sorted Arrays
 
-|Category|Difficulty|Tag|
+|Category|Difficulty|Tags|
 |:-:|:-:|:-:|
 |algorithms|Hard|array, binary-search, divide-and-conquer|
 

@@ -1,6 +1,6 @@
 # 10. Regular Expression Matching
 
-|Category|Difficulty|Tag|
+|Category|Difficulty|Tags|
 |:-:|:-:|:-:|
 |algorithms|Hard|string, dynamic-programming, backtracking|
 

@@ -1,6 +1,6 @@
 # 9. Palindrome Number
 
-|Category|Difficulty|Tag|
+|Category|Difficulty|Tags|
 |:-:|:-:|:-:|
 |algorithms|Easy|math|
 
